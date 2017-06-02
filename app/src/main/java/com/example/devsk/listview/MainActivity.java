@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         nameAddresses.put("Ленина 45", "Кв.6, под-д.1,эт.1 \n" +
                 "Нет электричества");
-        nameAddresses.put("Димитрова 12", "");
+        nameAddresses.put("Димитрова 12", "1");
         nameAddresses.put("Челюскинцев 56", "Кв.6, под-д.1,эт.2");
 
         List<HashMap<String, String>> listItems = new ArrayList<>();
