@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -29,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         nameAddresses.put("Ленина 45", "Кв.6, под-д.1,эт.1 \n" +
-                "Нет электричесва");
+                "Нет электричества");
         nameAddresses.put("Димитрова 12", "");
         nameAddresses.put("Челюскинцев 56", "Кв.6, под-д.1,эт.2");
 
